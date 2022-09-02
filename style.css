@@ -1,0 +1,18 @@
+.text-div{
+/* height: 300px;
+width: 300px; */
+background-color: green;
+color: aliceblue;
+
+display: inline-block;
+}
+body{
+  background-color: black;
+}
+.text-div{
+    height: 300px;
+width: 300px;
+background: green;
+
+
+}
